@@ -40,6 +40,6 @@ public class Conversions
             System.out.println(fahrenheit + " degrees fahrenheit is " + celcius + " degrees celcius");
             //add the code to ask the user to enter Fahrenheit and then convert to Celsius
         }
-        //add more if statements here.
+        
     }
 }
